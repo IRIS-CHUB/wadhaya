@@ -14,7 +14,8 @@
     "react-dom": "latest",
     "lucide-react": "latest",
     "react-slick": "latest",
-    "slick-carousel": "latest"
+    "slick-carousel": "latest",
+    "aos": "latest"
   },
   "devDependencies": {
     "tailwindcss": "3",
